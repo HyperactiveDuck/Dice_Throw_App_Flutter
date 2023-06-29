@@ -1,3 +1,2 @@
 # dice_app
-
-A new Flutter project.
+A basic flutter app for throwing dice
